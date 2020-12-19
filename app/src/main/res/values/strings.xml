@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NikhilAnandApp</string>
+    <string name="facebook_app_id">1018369098684801</string>
+    <string name="fb_login_protocol_scheme">fb1018369098684801</string>
+    <string name="welcome_screen">Welcome!</string>
+    <string name="welcome_screen_message">Sign in to continue</string>
+
+</resources>
